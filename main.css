@@ -1,0 +1,13 @@
+.formulario label {
+    font-weight: bold;
+    display: block;
+    padding: 3px;
+}
+
+button {
+    background-color: rgb(80, 90, 80);
+    color: rgb(49, 165, 45);
+    padding: 4px;
+    margin: 5px;
+    align-items: initial;
+}
